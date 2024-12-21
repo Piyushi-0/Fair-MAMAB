@@ -1,5 +1,5 @@
 # Fair-MAMAB
-Code for work, **Multi-agent Multi-armed Bandits with Minimum Reward Guarantee Fairness**.
+Code for our [AAMAS '25](https://aamas2025.org/) paper, **Multi-agent Multi-armed Bandits with Minimum Reward Guarantee Fairness**.
 
 ### To reproduce our results,
 we recommend creating a virtual environment and installing packages via `pip install -r requirements.txt`. 
