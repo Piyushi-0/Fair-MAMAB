@@ -17,3 +17,5 @@ The codes are described as follows.
   - 'run_mlens.sh' for the real-world experiment.
 
 With the log files generated, the 'combined' folder has codes to generate plots comparing different algorithms and the explore-exploit trade-off of ExploreFirst.
+
+*If you find this useful, consider giving a* ⭐ *to this repository & [citing our work](CITATION.cff).
